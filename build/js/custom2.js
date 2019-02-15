@@ -4126,7 +4126,7 @@ if (typeof NProgress != 'undefined') {
 				legend: {
 				  x: 'center',
 				  y: 'bottom',
-				  data: ['Partner', 'Senior Associate', 'Associate', 'Junior Associate', 'Paralegals']
+				  data: ['Partner', 'Senior Associate', 'Associates', 'Junior Associate', 'Paralegals']
 				},
 				toolbox: {
 				  show: true,
